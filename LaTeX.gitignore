@@ -21,3 +21,6 @@
 *.nav
 *.snm
 *.vrb
+
+# TeXnicCenter Project file
+*.tcp
