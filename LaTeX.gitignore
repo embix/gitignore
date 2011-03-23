@@ -24,3 +24,5 @@
 
 # TeXnicCenter Project file
 *.tcp
+# TeXnicCenterProjectSessionInformation
+*.tps
