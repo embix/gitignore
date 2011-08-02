@@ -22,6 +22,11 @@
 *.snm
 *.vrb
 
+# makeglossary
+*.acn
+*.acr
+*.alg
+
 # TeXnicCenter Project file
 *.tcp
 # TeXnicCenterProjectSessionInformation
