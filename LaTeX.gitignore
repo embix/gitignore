@@ -1,7 +1,11 @@
+*.acn
+*.acr
+*.alg
 *.aux
 *.bbl
 *.blg
 *.dvi
+*.fdb_latexmk
 *.glg
 *.glo
 *.gls
@@ -12,22 +16,16 @@
 *.lof
 *.log
 *.lot
+*.maf
+*.mtc
+*.mtc0
+*.nav
 *.nlo
 *.out
-*.toc
-*.fdb_latexmk
 *.pdfsync
-*.synctex.gz
-*.nav
+*.ps
 *.snm
+*.synctex.gz
+*.toc
 *.vrb
-
-# makeglossary
-*.acn
-*.acr
-*.alg
-
-# TeXnicCenter Project file
-*.tcp
-# TeXnicCenterProjectSessionInformation
-*.tps
+*.xdy
