@@ -29,8 +29,10 @@
 *.toc
 *.vrb
 *.xdy
+*.tdo
 
 # TeXnicCenter Project file
 *.tcp
 # TeXnicCenterProjectSessionInformation
 *.tps
+
